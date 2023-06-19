@@ -1,0 +1,6 @@
+C:\Users\luis.fpcunha\source\repos\Aula08Correcao\Aula08Correcao\bin\Debug\Aula08Correcao.exe.config
+C:\Users\luis.fpcunha\source\repos\Aula08Correcao\Aula08Correcao\bin\Debug\Aula08Correcao.exe
+C:\Users\luis.fpcunha\source\repos\Aula08Correcao\Aula08Correcao\bin\Debug\Aula08Correcao.pdb
+C:\Users\luis.fpcunha\source\repos\Aula08Correcao\Aula08Correcao\obj\Debug\Aula08Correcao.csproj.CoreCompileInputs.cache
+C:\Users\luis.fpcunha\source\repos\Aula08Correcao\Aula08Correcao\obj\Debug\Aula08Correcao.exe
+C:\Users\luis.fpcunha\source\repos\Aula08Correcao\Aula08Correcao\obj\Debug\Aula08Correcao.pdb
